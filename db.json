@@ -1,6 +1,6 @@
 {
   "invernaderos": [
-    { "id": 1, "title": "La cañada" },
+    { "id": 1, "title": "La cañada", "position":{"lat":33.6396965,"lgn":-84.4314573} },
     { "id": 2, "title": "El ejido" },
     { "id": 3, "title": "Las norias" }
   ],
