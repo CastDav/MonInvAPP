@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "invernaderos": [
+    { "id": 1, "title": "La cañada" },
+    { "id": 2, "title": "El ejido" },
+    { "id": 3, "title": "Las norias" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "usuarios": [
+    { "id": 1, "body": "Manolo.SA", "postId": 1 },
+    { "id": 2, "body": "David.SA", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sensores": [
+    { "id": 1, "body": "Temperatura", "postId": 1 },
+    { "id": 2, "body": "Humedad", "postId": 1 }
+    { "id": 3, "body": "Viento", "postId": 1 }
+    { "id": 4, "body": "Luz", "postId": 1 }
+  ],
 }
