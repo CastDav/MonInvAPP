@@ -13,5 +13,5 @@
     { "id": 2, "body": "Humedad", "postId": 1 },
     { "id": 3, "body": "Viento", "postId": 1 },
     { "id": 4, "body": "Luz", "postId": 1 }
-  ],
+  ]
 }
