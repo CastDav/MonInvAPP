@@ -1,8 +1,8 @@
 {
   "invernaderos": [
-    { "id": 1, "title": "La cañada", "position":{"lat":33.6396965,"lgn":-84.4314573} },
-    { "id": 2, "title": "El ejido" },
-    { "id": 3, "title": "Las norias" }
+    { "id": 1, "title": "La cañada", "position":{"lat":36.856444,"lgn":-2.467222} },
+    { "id": 2, "title": "El ejido", "position":{"lat":36.842448,"lgn":-2.422805} },
+    { "id": 3, "title": "Las norias", "position":{"lat":36.817998,"lgn":-2.569006} }
   ],
   "usuarios": [
     { "id": 1, "body": "Manolo.SA", "postId": 1 },
